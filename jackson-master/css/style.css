@@ -53,7 +53,8 @@ figure {
     font-family: "Quicksand", Arial, sans-serif; }
     @media screen and (max-width: 480px) {
       figure figcaption {
-        width: 100%; } }
+        width: 100%;
+       } }
 
 ::-webkit-selection {
   color: #fff;
